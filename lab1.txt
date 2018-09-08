@@ -1,0 +1,13 @@
+1. pwd
+2. To create a directory (mkdir username)
+3. ls-it shows the list of files stored in desktop downloads etc.
+4.ls -a (shows all the files including hidden files)
+5. to open an editor fle sublime is used:
+   command name:( subl)
+6.cd is used to guide you to directory.
+eg:cd username
+7.opens the editor opens the program is written.
+8. to save the file we go to file and save as and then save the file with an extension of (.py)
+9.print is the output function the program
+10.input is the input function in the program
+11.gedit is the command used to create a new text.
